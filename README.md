@@ -12,6 +12,7 @@
 - Vite
 - Vercel
 - GraphCMS
+- Figma
 
 ## :rocket: Bibliotecas :
 
